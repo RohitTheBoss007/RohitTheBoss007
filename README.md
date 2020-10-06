@@ -8,10 +8,11 @@
 
 ### 📫 Where to find me
 
-- [LinkedIn](https://www.linkedin.com/in/rohit-pal-7269a8188/) 💼
-- [Codeforces](https://codeforces.com/profile/onetaps) ⚡
-- [Codechef](https://www.codechef.com/users/rohitpal210) ⚡
-- [Articles](https://auth.geeksforgeeks.org/user/rohitpal210/articles) 😏
+- [LinkedIn](https://www.linkedin.com/in/rohit-pal-7269a8188/) 
+- [Codeforces](https://codeforces.com/profile/onetaps) 
+- [Codechef](https://www.codechef.com/users/rohitpal210)
+- [Atcoder](https://atcoder.jp/users/rohitpal210)
+- [Articles](https://auth.geeksforgeeks.org/user/rohitpal210/articles)
 
 
 <!--
