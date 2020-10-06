@@ -5,8 +5,6 @@
 **I am Rohit Pal 😃. I am currently in my pre-final year at Dept. of Electrical Engineering, Indian Institute of Technology (IIT), Dhanbad .
 I am interested in Android App development, Machine learning, Deep learning and Computer vision. Also I enjoy competitive programming and like to contribute to open-source.**
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitTheBoss007&show_icons=true&theme=dracula)](https://github.com/RohitTheBoss007)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitTheBoss007&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Where to find me
@@ -17,6 +15,8 @@ I am interested in Android App development, Machine learning, Deep learning and 
 - [Atcoder](https://atcoder.jp/users/rohitpal210)
 - [Articles](https://auth.geeksforgeeks.org/user/rohitpal210/articles)
 
+
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitTheBoss007&show_icons=true&theme=dracula)](https://github.com/RohitTheBoss007)
 
 <!--
 **RohitTheBoss007/RohitTheBoss007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
