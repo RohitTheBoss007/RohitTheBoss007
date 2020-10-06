@@ -10,7 +10,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/rohit-pal-7269a8188/) 💼
 - [Codeforces](https://codeforces.com/profile/onetaps) ⚡
-- [Codefochef](https://www.codechef.com/users/rohitpal210) ⚡
+- [Codechef](https://www.codechef.com/users/rohitpal210) ⚡
 - [Articles](https://auth.geeksforgeeks.org/user/rohitpal210/articles) 😏
 
 
