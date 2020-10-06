@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitTheBoss007&count_private=true&show_icons=true&theme=onedark/github-readme-stats&repo=github-readme-stats)](https://github.com/RohitTheBoss007)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitTheBoss007&count_private=true&show_icons=true&theme=dracula/github-readme-stats&repo=github-readme-stats)](https://github.com/RohitTheBoss007)
 
 <!--
 **RohitTheBoss007/RohitTheBoss007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
