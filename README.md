@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitTheBoss007&theme=dracula)](https://github.com/RohitTheBoss007)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitTheBoss007&show_icons=true&theme=dracula)](https://github.com/RohitTheBoss007)
 
 <!--
 **RohitTheBoss007/RohitTheBoss007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
