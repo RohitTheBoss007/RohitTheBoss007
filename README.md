@@ -2,7 +2,7 @@
 
  <img align="right" src= "https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-**I am Rohit Pal 😃. I am currently in my pre-final year at Dept. of Electrical Engineering, Indian Institute of Technology (IIT), Dhanbad .
+**I am Rohit Pal 😃. I am currently in my final year student at Dept. of Electrical Engineering, Indian Institute of Technology (IIT), Dhanbad .
 I am interested in Android App development, Machine learning, Deep learning and Computer vision. Also I enjoy competitive programming and like to contribute to open-source.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitTheBoss007&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
