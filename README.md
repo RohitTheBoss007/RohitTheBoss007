@@ -2,7 +2,7 @@
 
  <img align="right" src= "https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-**👋 Hello! I am Rohit Pal. Passionate about simplifying things through technology. Proficient in Data Structures and Algorithms and love to solve problems that involve creativity and innovation.
+👋 Hello! I am Rohit Pal. Passionate about simplifying things through technology. Proficient in Data Structures and Algorithms and love to solve problems that involve creativity and innovation.
 
 🌍 Along with it, I have strong communication skills with a BTech focused in Electrical Engineering from Indian Institute of Technology (IIT), Dhanbad.
 
@@ -18,7 +18,7 @@
 
 🧘I am really passionate about fitness and healthcare. I believe that taking care of one's mental and physical health should take priority over everything else. My aim is to save people's lives through various projects that caters to the requirements of the healthtech space. 
 
-⚡ Apart from this, I have interest in various well-crafted pieces of fiction irrespective of the medium. I am always open to a good movie/ anime/ manga/ novel recommendation. I also enjoy writing informative articles, you can find them here: https://auth.geeksforgeeks.org/user/rohitpal210/articles**
+⚡ Apart from this, I have interest in various well-crafted pieces of fiction irrespective of the medium. I am always open to a good movie/ anime/ manga/ novel recommendation. I also enjoy writing informative articles, you can find them here: https://auth.geeksforgeeks.org/user/rohitpal210/articles
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitTheBoss007&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
